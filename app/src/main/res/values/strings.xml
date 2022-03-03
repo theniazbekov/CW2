@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CW2</string>
+    <string name="input_text">Input text</string>
+    <string name="send_data">send data</string>
+    <string name="browser">Browser</string>
+    <string name="camera">camera</string>
+    <string name="gallery">gallery</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="transaction">transaction</string>
+</resources>
